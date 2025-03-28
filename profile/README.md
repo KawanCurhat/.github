@@ -10,7 +10,7 @@
 | Machine Learning | Aprianto Dwi Pamungkas | Universitas Bina Sarana Informatika | [Mgk19xxx69](https://github.com/Mgk19xxx69) |
 | Cloud Computing | Oktavia Ayu Andini | Institut Teknologi Telkom Purwokerto | [AyuAndini19](https://github.com/AyuAndini19) |
 | Cloud Computing | Galih Tri Atmojo | Universitas Muhammadiyah Pekajangan Pekalongan | [galihatmojo](https://github.com/galihatmojo) |
-| Mobile Development | Bagas Satrya Yogatama | Universitas Muhammadiyah Malang | [Slavouz](https://github.com/Slavouz) |
+| Mobile Development | Bagas Satrya Yogatama | Universitas Muhammadiyah Malang | [knyghtw](https://github.com/knyghtw) |
 | Mobile Development | Susilowati | Universitas Terbuka | [susillw18](https://github.com/susillw18) |
 
 ## About KawanCurhat
